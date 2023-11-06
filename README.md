@@ -7,3 +7,6 @@ Traditionally, credit card scores have been based on historical data. However, w
 We have chosen to predict whether an applicant is a "good" or "bad" client, based on the historical data of their credits and also on their personal information (age, income, education etc.). The difficulty of this task comes from the fact that the definition of "good" or "bad" is not provided, so we need to use various techniques to create our labels.
 
 More details in the documentation.
+
+
+SCULA BOB
